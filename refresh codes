@@ -1,0 +1,32 @@
+//This for Php Refresh
+
+php artisan cache:clear
+php artisan config:clear
+php artisan view:clear
+php artisan optimize:clear
+
+
+php artisan optimize
+php artisan route:cache
+php artisan config:cache
+php artisan view:cache
+php artisan route:clear
+
+
+// GitHub token  4.9.2024 created  last day for validation 3.12.2024
+
+
+//Development server 
+
+Domain: preggyzone.com
+| Ip:
+| HasCgi: y
+| UserName: 
+| PassWord: 
+
+
+DATABASE DETAILS :::
+
+DB NAME : 
+   NAME :
+PASSWORD : 
